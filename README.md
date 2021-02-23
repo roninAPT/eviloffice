@@ -1,8 +1,7 @@
-# This Repository is sole property of Linux_Choice... but somehow it remained on mine account.
 # EvilOffice v1.0
-## Author: github.com/srnframe/eviloffice
+## Author: github.com/roninAPT/eviloffice
 ## Twitter: twitter.com/linux_choice
-### Read the license before using any part from this code :) 
+ 
 
 Win python script to inject Macro and DDE code into Excel and Word documents (reverse shell)
 
@@ -28,7 +27,7 @@ Usage of EvilOffice for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
-git clone https://github.com/srnframe/eviloffice
+git clone https://github.com/roninAPT/eviloffice
 cd eviloffice
 python -m pip install -r requirements.txt
 python eviloffice.py
@@ -36,4 +35,4 @@ python eviloffice.py
 ### Donate!
 Pay me a coffee:
 ### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
+
